@@ -1,0 +1,28 @@
+<svg width="200" height="500" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <title>Body Diagram</title>
+    
+    <!-- Head -->
+    <rect id="head" x="80" y="10" width="40" height="40" fill="lightblue" />
+    
+    <!-- Torso -->
+    <rect id="torso" x="70" y="60" width="60" height="100" fill="lightcoral" />
+    
+    <!-- Left Arm -->
+    <rect id="left-arm" x="30" y="70" width="40" height="20" fill="lightgreen" />
+    <rect id="left-forearm" x="20" y="90" width="40" height="20" fill="lightgreen" />
+    
+    <!-- Right Arm -->
+    <rect id="right-arm" x="130" y="70" width="40" height="20" fill="lightgreen" />
+    <rect id="right-forearm" x="140" y="90" width="40" height="20" fill="lightgreen" />
+    
+    <!-- Left Leg -->
+    <rect id="left-thigh" x="70" y="160" width="30" height="60" fill="lightgoldenrodyellow" />
+    <rect id="left-calf" x="70" y="220" width="30" height="60" fill="lightgoldenrodyellow" />
+    
+    <!-- Right Leg -->
+    <rect id="right-thigh" x="100" y="160" width="30" height="60" fill="lightgoldenrodyellow" />
+    <rect id="right-calf" x="100" y="220" width="30" height="60" fill="lightgoldenrodyellow" />
+  </g>
+</svg>
+
